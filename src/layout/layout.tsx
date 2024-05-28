@@ -5,6 +5,13 @@ import { HomeIcon } from "lucide-react";
 import Icon1 from "@/assets/icons/icon1";
 import Icon2 from "@/assets/icons/icon2";
 import Icon3 from "@/assets/icons/icon3";
+import Icon4 from "@/assets/icons/icon4";
+import Icon5 from "@/assets/icons/icon5";
+import Icon6 from "@/assets/icons/icon6";
+import Icon7 from "@/assets/icons/icon7";
+import Icon8 from "@/assets/icons/icon8";
+import Icon9 from "@/assets/icons/icon9";
+import Icon10 from "@/assets/icons/icon10";
 
 export const MainLayout = () => {
   return (
@@ -34,37 +41,37 @@ export const MainLayout = () => {
           </li>
           <li>
             <Button variant="secondary" size={"icon"}>
-              <HomeIcon />
+              <Icon4 />
             </Button>
           </li>
           <li>
             <Button variant="secondary" size={"icon"}>
-              <HomeIcon />
+              <Icon5 />
             </Button>
           </li>
           <li>
             <Button variant="secondary" size={"icon"}>
-              <HomeIcon />
+              <Icon6 />
             </Button>
           </li>
           <li>
             <Button variant="secondary" size={"icon"}>
-              <HomeIcon />
+              <Icon7 />
             </Button>
           </li>
           <li>
             <Button variant="secondary" size={"icon"}>
-              <HomeIcon />
+              <Icon8 />
             </Button>
           </li>
           <li>
             <Button variant="secondary" size={"icon"}>
-              <HomeIcon />
+              <Icon9 />
             </Button>
           </li>
           <li>
             <Button variant="secondary" size={"icon"}>
-              <HomeIcon />
+              <Icon10 />
             </Button>
           </li>
         </ul>
