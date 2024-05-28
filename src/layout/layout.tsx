@@ -17,8 +17,8 @@ export const MainLayout = () => {
   return (
     <div className="flex gap-[30px] container rounded-xl overflow-hidden w-full ">
       <div className="md:block sm:hidden w-[102px] left-0"></div>
-      <div className="md:w-[102px] sm:w-[50px] bg-white  fixed top-0 left-0 bottom-0 ">
-        <ul className="flex flex-col gap-2 p-5">
+      <div className="lg:w-[102px] md:w-[50px] sm:w-[50px] bg-white  fixed top-0 left-0 bottom-0 ">
+        <ul className="flex flex-col  gap-2 lg:p-5 md:p-2 sm:p-2">
           <li>
             <Button variant="default" size={"icon"}>
               <HomeIcon />

@@ -10,7 +10,7 @@ import HorizontalBarChart from "@/components/charts/horizontal-bar";
 
 const Home = () => {
   return (
-    <div className="pt-5 pb-[30px] flex gap-[30px] md:flex-row md:items-start  sm:items-center sm:flex-col">
+    <div className="pt-5 pb-[30px] flex gap-[30px] lg:flex-row md:items-start  sm:items-center sm:flex-col">
       <div className="sm:w-[300px] md:w-[650px]">
         <div className="flex justify-between mb-[15px] items-center">
           <h3 className="text-[#15134B] text-xl font-bold">Performance</h3>
