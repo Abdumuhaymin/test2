@@ -34,7 +34,7 @@ const Header = () => {
           <li>
             <Link to="/" className="flex items-center gap-1">
               <Avatar className="w-6 h-6">
-                <AvatarImage src="https://avatars.githubusercontent.com/u/150212432?v=4" />
+                <AvatarImage src="https://pub-7be1d45c4a744f86846c80e90df909eb.r2.dev/student/profile/1adc4b97-9338-4ff8-9725-b283444485b2.jpeg" />
                 <AvatarFallback>ME</AvatarFallback>
               </Avatar>
             </Link>
@@ -44,7 +44,7 @@ const Header = () => {
           <Sheet>
             <SheetTrigger>
               <Avatar className="w-6 h-6">
-                <AvatarImage src="https://avatars.githubusercontent.com/u/150212432?v=4" />
+                <AvatarImage src="https://pub-7be1d45c4a744f86846c80e90df909eb.r2.dev/student/profile/1adc4b97-9338-4ff8-9725-b283444485b2.jpeg" />
                 <AvatarFallback>ME</AvatarFallback>
               </Avatar>
             </SheetTrigger>
@@ -65,7 +65,7 @@ const Header = () => {
                 <li>
                   <Link to="/" className="flex items-center gap-1">
                     <Avatar className="w-6 h-6">
-                      <AvatarImage src="https://avatars.githubusercontent.com/u/150212432?v=4" />
+                      <AvatarImage src="https://pub-7be1d45c4a744f86846c80e90df909eb.r2.dev/student/profile/1adc4b97-9338-4ff8-9725-b283444485b2.jpeg" />
                       <AvatarFallback>ME</AvatarFallback>
                     </Avatar>
                     Profile
